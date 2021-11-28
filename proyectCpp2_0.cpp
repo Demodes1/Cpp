@@ -27,6 +27,7 @@ int main(){
     //createTable(dir);
     insertData(dir);
     selectData(dir);
+    //updateData(dir);
 
     return 0;
 }
